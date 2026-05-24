@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
 
 <div align="center">
-  <img height="200" src="https://app.lottiefiles.com/share/446c9e54-03ee-4ec4-9b40-a773441a713e"  />
+  <img height="200" src="https://pixabay.com/videos/robot-woman-ai-android-cyborg-158549/"  />
 </div>
 
 ###
