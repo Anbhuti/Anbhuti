@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
 
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t4M3dpYzlhZ3Z3Y2ptaTZ4bGlvMXJlam1ocmNsODZtYTNncWx3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif"  />
+  <img height="200" src="https://app.lottiefiles.com/share/446c9e54-03ee-4ec4-9b40-a773441a713e"  />
 </div>
 
 ###
