@@ -7,9 +7,9 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anbhuti&label=Profile%20views&color=0e75b6&style=flat" alt="Anbhuti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anubhuti&label=Profile%20views&color=0e75b6&style=flat" alt="Anbhuti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Anbhuti" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anbhuti" alt="Anbhuti" /></a> </p>
 
 
 
