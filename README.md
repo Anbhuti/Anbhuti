@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anbhuti&show_icons=true&locale=en" alt="Anbhuti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anbhuti&" alt="Anbhuti" /></p>
-](https://app.spline.design/community/file/600e942b-5add-4604-bac6-9fa018fd067b)
+
