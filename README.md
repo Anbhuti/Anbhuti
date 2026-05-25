@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anubhuti Pal</h1>
+[<h1 align="center">Hi 👋, I'm Anubhuti Pal</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
 
-<script type="module" src="https://app.spline.design/community/file/600e942b-5add-4604-bac6-9fa018fd067b"></script>
-
-<model-viewer 
-src="robot.glb"
-auto-rotate
-camera-controls
-style="width:100%; height:500px;">
-</model-viewer>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3oxcTQ1Ym9pNzJvcWE2eXBrdGdkYnV3a2NvN2V2MjY5NmM5c21qdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Hrm0LJNRkPHDkLIHz9/giphy.gif" width="350"/>
+</p>
 ###
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anubhuti&label=Profile%20views&color=0e75b6&style=flat" alt="Anbhuti" /> </p>
@@ -41,3 +35,4 @@ style="width:100%; height:500px;">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anbhuti&show_icons=true&locale=en" alt="Anbhuti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anbhuti&" alt="Anbhuti" /></p>
+](https://app.spline.design/community/file/600e942b-5add-4604-bac6-9fa018fd067b)
