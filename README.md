@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
 
 <div align="center">
-  <img height="200" src="https://skfb.ly/pIWHJ"  />
+  <img height="200" src="https://app.spline.design/community/file/9468b768-e55a-4e97-8d3f-7dd2e0a4c39c"  />
 </div>
 
 ###
